@@ -95,27 +95,7 @@
 
 <br>
 
-<!-- SNAKE -->
-<h2 align="center">
-  🌸 <span style="color: #FF1493;">Contribution Snake</span> 🌸
-</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fieldlu/fieldlu/output/snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fieldlu/fieldlu/output/snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fieldlu/fieldlu/output/snake.svg">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/divider.svg" width="120">
-</div>
-
-<br>
-
+<!-- FOOTER -->
 <div align="center">
   <samp><b style="color: #FF69B4;">♡ code with love, build with magic ♡</b></samp>
 </div>
