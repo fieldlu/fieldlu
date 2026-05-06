@@ -20,26 +20,13 @@
 
 <br>
 
-<!-- STATS -->
+<!-- ABOUT -->
 <div align="center">
-  <a href="https://github.com/fieldlu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fieldlu&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&ring_color=00FF88&count_private=true&include_all_commits=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fieldlu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9&langs_count=6">
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/fieldlu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fieldlu&theme=dark&hide_border=true&background=0D1117&stroke=00FF88&ring=00FF88&fire=FFA500&currStreakLabel=00FF88&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak">
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/fieldlu">
-    <img src="https://github-profile-trophy.vercel.app/?username=fieldlu&theme=onedark&no-frame=true&margin-w=8&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" alt="trophies">
-  </a>
+  <samp>
+    <b style="color: #00FF88;">&gt;</b> 写脚本、做工具，用自动化解决实际问题
+    <br>
+    <b style="color: #00FF88;">&gt;</b> 大部分项目托管在 <a href="https://gitee.com/fieldlu"><b>Gitee</b></a>
+  </samp>
 </div>
 
 <br>
@@ -126,12 +113,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/divider.svg" width="120">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=fieldlu&style=flat-square&color=00FF88" alt="profile views">
 </div>
 
 <br>
