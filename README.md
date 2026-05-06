@@ -22,19 +22,13 @@
 
 <!-- ABOUT -->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="400">
-        <samp>
-          <b style="color: #FF69B4;">♡</b> 脚本爱好者 · 自动化搬砖工
-          <br>
-          <b style="color: #FF69B4;">♡</b> 代码托管：<a href="https://gitee.com/fieldlu"><b>Gitee</b></a> · <a href="https://github.com/fieldlu"><b>GitHub</b></a>
-          <br>
-          <b style="color: #FF69B4;">♡</b> 能用脚本解决的问题，绝不手动
-        </samp>
-      </td>
-    </tr>
-  </table>
+  <samp>
+    🌸 脚本爱好者 · 自动化搬砖工
+    <br>
+    🌸 代码托管：<a href="https://gitee.com/fieldlu"><b>Gitee</b></a> · <a href="https://github.com/fieldlu"><b>GitHub</b></a>
+    <br>
+    🌸 能用脚本解决的问题，绝不手动
+  </samp>
 </div>
 
 <br>
@@ -47,9 +41,7 @@
 
 <!-- TECH STACK -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/wrench.svg" width="24" style="vertical-align: middle;">
-  <span style="color: #FF69B4;">Tech Stack</span>
-  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/wrench.svg" width="24" style="vertical-align: middle;">
+  🌸 <span style="color: #FF1493;">Tech Stack</span> 🌸
 </h2>
 
 <div align="center">
@@ -57,18 +49,18 @@
 ### ☆ Languages ☆
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-DA70D6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-8B008B?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-DA70D6?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### ☆ Tools ☆
 
-![VS Code](https://img.shields.io/badge/VS_Code-C71585?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white)
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-DA70D6?style=for-the-badge&logo=tampermonkey&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FF1493?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-C71585?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FF69B4?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
@@ -82,9 +74,7 @@
 
 <!-- PROJECTS -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/rocket.svg" width="24" style="vertical-align: middle;">
-  <span style="color: #FFB6C1;">Projects</span>
-  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/rocket.svg" width="24" style="vertical-align: middle;">
+  🌟 <span style="color: #FF1493;">Projects</span> 🌟
 </h2>
 
 <div align="center">
@@ -107,9 +97,7 @@
 
 <!-- SNAKE -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/snake-icon.svg" width="24" style="vertical-align: middle;">
-  <span style="color: #FF69B4;">Contribution Snake</span>
-  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/snake-icon.svg" width="24" style="vertical-align: middle;">
+  🌸 <span style="color: #FF1493;">Contribution Snake</span> 🌸
 </h2>
 
 <div align="center">
@@ -129,7 +117,7 @@
 <br>
 
 <div align="center">
-  <samp><i style="color: #D8A0C8;">♡ code with love, build with magic ♡</i></samp>
+  <samp><b style="color: #FF69B4;">♡ code with love, build with magic ♡</b></samp>
 </div>
 
 <br>
