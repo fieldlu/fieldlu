@@ -81,9 +81,8 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[wut_assistant](https://github.com/fieldlu/wut_assistant)** | 校园助手 — 课表、考试、成绩查询一体化工具 | `JavaScript` `Node.js` |
-| **[xy-script-assets](https://github.com/fieldlu/xy-script-assets)** | 脚本资源库 — 油猴脚本静态资源托管与分发 | `JavaScript` `CDN` |
-| **[blog](https://gitee.com/fieldlu/blog)** | 个人博客 — Tampermonkey 工具与自动化脚本分享 | `HTML` `CSS` `JS` |
+| **[wut_assistant](https://github.com/fieldlu/wut_assistant)** | 一个平台的学习助手 | `JavaScript` `Node.js` |
+| **[xy-script-assets](https://github.com/fieldlu/xy-script-assets)** | 基于 ai-augmented.com 平台的全自动学习助手 | `JavaScript` `CDN` |
 
 </div>
 
