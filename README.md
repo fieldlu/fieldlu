@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=800&lines=%E2%96%B6+%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%81%9A%E5%B7%A5%E5%85%B7%EF%BC%8C%E6%90%9E%E8%84%9A%E6%9C%AC%E3%80%82;%E2%96%B6+%E7%94%A8%E4%BB%A3%E7%A0%81%E8%A7%A3%E5%86%B3%E8%BA%AB%E8%BE%B9%E7%9A%84%E9%97%AE%E9%A2%98%E3%80%82;%E2%96%B6+%E8%87%AA%E5%8A%A8%E5%8C%96%E7%88%B1%E5%A5%BD%E8%80%85%EF%BC%8C%E6%8A%98%E8%85%BE%E6%B0%B8%E4%B8%8D%E6%AD%A2%E3%80%82;%E2%96%B6+Build+tools%2C+not+just+code.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=800&lines=%E2%98%86+%E5%86%99%E4%BB%A3%E7%A0%81%E7%9A%84%E8%90%8C%E6%96%B0~;%E2%98%86+%E8%84%9A%E6%9C%AC%E5%B0%8F%E8%83%BD%E6%89%8B%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E6%90%AC%E7%A0%96%E5%B7%A5;%E2%98%86+%E6%91%B8%E9%B1%BC%E4%B8%8D%E5%A6%82%E5%86%99%E8%84%9A%E6%9C%AC~;%E2%98%86+%E2%99%A1+Code+is+my+superpower+%E2%99%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,11 +22,19 @@
 
 <!-- ABOUT -->
 <div align="center">
-  <samp>
-    <b style="color: #00FF88;">&gt;</b> 写脚本、做工具，用自动化解决实际问题
-    <br>
-    <b style="color: #00FF88;">&gt;</b> 大部分项目托管在 <a href="https://gitee.com/fieldlu"><b>Gitee</b></a>
-  </samp>
+  <table>
+    <tr>
+      <td align="center" width="400">
+        <samp>
+          <b style="color: #FF69B4;">♡</b> 脚本爱好者 · 自动化搬砖工
+          <br>
+          <b style="color: #FF69B4;">♡</b> 代码托管：<a href="https://gitee.com/fieldlu"><b>Gitee</b></a> · <a href="https://github.com/fieldlu"><b>GitHub</b></a>
+          <br>
+          <b style="color: #FF69B4;">♡</b> 能用脚本解决的问题，绝不手动
+        </samp>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -39,27 +47,28 @@
 
 <!-- TECH STACK -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/wrench.svg" width="28" style="vertical-align: middle; margin-right: 8px;">
-  <span style="color: #00FF88;">Tech Stack</span>
+  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/wrench.svg" width="24" style="vertical-align: middle;">
+  <span style="color: #FF69B4;">Tech Stack</span>
+  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/wrench.svg" width="24" style="vertical-align: middle;">
 </h2>
 
 <div align="center">
 
-### Languages
+### ☆ Languages ☆
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-DA70D6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-8B008B?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Tools
+### ☆ Tools ☆
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Tampermonkey](https://img.shields.io/badge/Tampermonkey-00485B?style=for-the-badge&logo=tampermonkey&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-C71585?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
+![Tampermonkey](https://img.shields.io/badge/Tampermonkey-DA70D6?style=for-the-badge&logo=tampermonkey&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FF1493?style=for-the-badge&logo=linux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-C71585?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
@@ -73,8 +82,9 @@
 
 <!-- PROJECTS -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/rocket.svg" width="28" style="vertical-align: middle; margin-right: 8px;">
-  <span style="color: #00FF88;">Projects</span>
+  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/rocket.svg" width="24" style="vertical-align: middle;">
+  <span style="color: #FFB6C1;">Projects</span>
+  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/rocket.svg" width="24" style="vertical-align: middle;">
 </h2>
 
 <div align="center">
@@ -97,8 +107,9 @@
 
 <!-- SNAKE -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/snake-icon.svg" width="28" style="vertical-align: middle; margin-right: 8px;">
-  <span style="color: #00FF88;">Contribution Snake</span>
+  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/snake-icon.svg" width="24" style="vertical-align: middle;">
+  <span style="color: #FF69B4;">Contribution Snake</span>
+  <img src="https://raw.githubusercontent.com/fieldlu/fieldlu/main/assets/snake-icon.svg" width="24" style="vertical-align: middle;">
 </h2>
 
 <div align="center">
@@ -118,7 +129,7 @@
 <br>
 
 <div align="center">
-  <samp><i>"The best code solves a real problem."</i></samp>
+  <samp><i style="color: #D8A0C8;">♡ code with love, build with magic ♡</i></samp>
 </div>
 
 <br>
