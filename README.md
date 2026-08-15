@@ -48,9 +48,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fieldlu&show_icons=true&theme=buefy&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fieldlu&layout=compact&theme=buefy&hide_border=true)
+![Stars](https://img.shields.io/github/stars/fieldlu/xiaonai?style=for-the-badge&label=Stars&color=FF69B4)
+![Forks](https://img.shields.io/github/forks/fieldlu/xiaonai?style=for-the-badge&label=Forks&color=FF69B4)
+![Watchers](https://img.shields.io/github/watchers/fieldlu/xiaonai?style=for-the-badge&label=Watchers&color=FF69B4)
+![Commits](https://img.shields.io/github/commit-activity/m/fieldlu/xiaonai?style=for-the-badge&label=Commits&color=FF69B4)
+![Top Language](https://img.shields.io/github/languages/top/fieldlu/xiaonai?style=for-the-badge&label=Top%20Lang&color=FF69B4)
+![Languages](https://img.shields.io/github/languages/count/fieldlu/xiaonai?style=for-the-badge&label=Languages&color=FF69B4)
 
 </div>
 
