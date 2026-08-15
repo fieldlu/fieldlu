@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=800&lines=%E2%98%86+%E6%AD%A6%E6%B1%89%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6+%C2%B7+%E6%B1%BD%E8%BD%A6%E6%9C%8D%E5%8A%A1%E5%B7%A5%E7%A8%8B+2401;%E2%98%86+%E5%B0%8F%E5%A5%88%EF%BC%88XiaoNai%EF%BC%89QQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91%E8%80%85;%E2%98%86+%E8%84%9A%E6%9C%AC%E5%B0%8F%E8%83%BD%E6%89%8B%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E6%90%AC%E7%A0%96%E5%B7%A5;%E2%98%86+%E2%99%A1+Code+is+my+superpower+%E2%99%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=800&lines=%E2%98%86+%E5%B0%8F%E5%A5%88%EF%BC%88XiaoNai%EF%BC%89QQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91%E8%80%85;%E2%98%86+%E8%84%9A%E6%9C%AC%E5%B0%8F%E8%83%BD%E6%89%8B%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E6%90%AC%E7%A0%96%E5%B7%A5;%E2%98%86+%E6%91%B8%E9%B1%BC%E4%B8%8D%E5%A6%82%E5%86%99%E8%84%9A%E6%9C%AC~;%E2%98%86+%E2%99%A1+Code+is+my+superpower+%E2%99%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,9 +23,9 @@
 <!-- ABOUT -->
 <div align="center">
   <samp>
-    🌸 武汉理工大学 · 汽车服务工程 2401
+    🌸 小奈（XiaoNai）QQ 群机器人开发者
     <br>
-    🌸 小奈（XiaoNai）QQ 群机器人作者 —— AI 群助手 + 校园信息查询 + 定时推送
+    🌸 AI 群助手 · 校园信息查询 · 定时推送
     <br>
     🌸 能用脚本解决的问题，绝不手动
     <br>
@@ -71,9 +71,9 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[xiaonai](https://github.com/fieldlu/xiaonai)** | 🤖 小奈 —— 武汉理工定制 QQ 群机器人（知识库/工具路由/定时推送/记忆系统） | `Python` `NapCat` `OpenClaw` `MiMo` |
+| **[xiaonai](https://github.com/fieldlu/xiaonai)** | 🤖 小奈 —— QQ 群机器人（知识库/工具路由/定时推送/记忆系统） | `Python` `NapCat` `OpenClaw` `MiMo` |
 | **[wut_assistant](https://github.com/fieldlu/wut_assistant)** | 一个平台的学习助手 | `JavaScript` `Node.js` |
-| **[whut-auto-news-crawler](https://github.com/fieldlu/whut-auto-news-crawler)** | 武理校园通知自动抓取 | `Python` |
+| **[whut-auto-news-crawler](https://github.com/fieldlu/whut-auto-news-crawler)** | 校园通知自动抓取 | `Python` |
 | **[xy-script-assets](https://github.com/fieldlu/xy-script-assets)** | 基于 ai-augmented.com 平台的全自动学习助手 | `JavaScript` `CDN` |
 
 </div>
