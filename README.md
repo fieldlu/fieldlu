@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=800&lines=%E2%98%86+%E5%86%99%E4%BB%A3%E7%A0%81%E7%9A%84%E8%90%8C%E6%96%B0~;%E2%98%86+%E8%84%9A%E6%9C%AC%E5%B0%8F%E8%83%BD%E6%89%8B%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E6%90%AC%E7%A0%96%E5%B7%A5;%E2%98%86+%E6%91%B8%E9%B1%BC%E4%B8%8D%E5%A6%82%E5%86%99%E8%84%9A%E6%9C%AC~;%E2%98%86+%E2%99%A1+Code+is+my+superpower+%E2%99%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=800&lines=%E2%98%86+%E6%AD%A6%E6%B1%89%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6+%C2%B7+%E6%B1%BD%E8%BD%A6%E6%9C%8D%E5%8A%A1%E5%B7%A5%E7%A8%8B+2401;%E2%98%86+%E5%B0%8F%E5%A5%88%EF%BC%88XiaoNai%EF%BC%89QQ%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8F%91%E8%80%85;%E2%98%86+%E8%84%9A%E6%9C%AC%E5%B0%8F%E8%83%BD%E6%89%8B%EF%BC%8C%E8%87%AA%E5%8A%A8%E5%8C%96%E6%90%AC%E7%A0%96%E5%B7%A5;%E2%98%86+%E2%99%A1+Code+is+my+superpower+%E2%99%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,11 +23,13 @@
 <!-- ABOUT -->
 <div align="center">
   <samp>
-    🌸 脚本爱好者 · 自动化搬砖工
+    🌸 武汉理工大学 · 汽车服务工程 2401
     <br>
-    🌸 代码托管：<a href="https://gitee.com/fieldlu"><b>Gitee</b></a> · <a href="https://github.com/fieldlu"><b>GitHub</b></a>
+    🌸 小奈（XiaoNai）QQ 群机器人作者 —— AI 群助手 + 校园信息查询 + 定时推送
     <br>
     🌸 能用脚本解决的问题，绝不手动
+    <br>
+    🌸 代码托管：<a href="https://gitee.com/fieldlu"><b>Gitee</b></a> · <a href="https://github.com/fieldlu"><b>GitHub</b></a>
   </samp>
 </div>
 
@@ -39,28 +41,16 @@
 
 <br>
 
-<!-- TECH STACK -->
+<!-- STATS -->
 <h2 align="center">
-  🌸 <span style="color: #FF1493;">Tech Stack</span> 🌸
+  📊 <span style="color: #FF1493;">GitHub Stats</span> 📊
 </h2>
 
 <div align="center">
 
-### ☆ Languages ☆
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fieldlu&show_icons=true&theme=buefy&hide_border=true&count_private=true)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-DA70D6?style=for-the-badge&logo=markdown&logoColor=white)
-
-### ☆ Tools ☆
-
-![VS Code](https://img.shields.io/badge/VS_Code-FF69B4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white)
-![Tampermonkey](https://img.shields.io/badge/Tampermonkey-DA70D6?style=for-the-badge&logo=tampermonkey&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FF1493?style=for-the-badge&logo=linux&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FF69B4?style=for-the-badge&logo=github-actions&logoColor=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fieldlu&layout=compact&theme=buefy&hide_border=true)
 
 </div>
 
@@ -81,7 +71,9 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| **[xiaonai](https://github.com/fieldlu/xiaonai)** | 🤖 小奈 —— 武汉理工定制 QQ 群机器人（知识库/工具路由/定时推送/记忆系统） | `Python` `NapCat` `OpenClaw` `MiMo` |
 | **[wut_assistant](https://github.com/fieldlu/wut_assistant)** | 一个平台的学习助手 | `JavaScript` `Node.js` |
+| **[whut-auto-news-crawler](https://github.com/fieldlu/whut-auto-news-crawler)** | 武理校园通知自动抓取 | `Python` |
 | **[xy-script-assets](https://github.com/fieldlu/xy-script-assets)** | 基于 ai-augmented.com 平台的全自动学习助手 | `JavaScript` `CDN` |
 
 </div>
